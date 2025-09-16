@@ -1,0 +1,16 @@
+# Requirements for Hello World Python Application
+# This file lists the Python dependencies for the project
+
+# Core dependencies (none required for basic hello world)
+# Add your project dependencies here as needed
+
+# Development dependencies
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+
+# Example GCP dependencies (uncomment as needed):
+# google-cloud-storage>=2.0.0
+# google-cloud-pubsub>=2.0.0
+# google-cloud-logging>=3.0.0
+# google-auth>=2.0.0
